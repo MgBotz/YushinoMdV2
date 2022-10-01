@@ -25,21 +25,21 @@ let rules = `➯ *Tɪᴅᴀᴋ Sᴘᴀᴍ Bᴏᴛ*
 ⟬Lu Di Chet Ayang Lu Aja Lama Blesny⟭
 ➯ *Maksa Masukin Gc Lu*
 ⟬Minimal Donasi Lah Cuy Biar Cuan Gw⟭
-➯ *Chet Aneh² Di Cwe Gw, Gw Block Lu Hdup²*
-⟬Mɪɴɪᴍᴀʟ Nɢᴏᴛᴀᴋ⟭
+➯ *Chet Aneh² Di BOT Gw, Gw Block Lu Hdup²*
+⟬MINIMAL OJO SELEB⟭
 ❏┳━━◩
 ┍┛
 ┆⟥⟤ ➠ (${global.bottime})
 └─┈⟅`
 let nth = `☰⟥⟝⟞⟝❨ *Rᴜʟᴇs Mʏ Bᴏᴛ* ❩⟞⟝⟞⟤☰`
 conn.send3ButtonImg(m.chat, `${pickRandom(flaaa2)}` + `${ucapan()} ` + `${name}`, nth, rules, 'Menu', '.menu', 'Owner', '.owner', 'Credit', '.credit', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
-    mediaUrl: 'https://wa.me/p/5489299044451325/6281361281833',
+    mediaUrl: 'https://wa.me/p/5489299044451325/6282171432358',
     mediaType: 2, 
     description: sgc,
     title: "Sᴇᴡᴀ Cᴇᴋ Dɪsɪɴɪ Cᴜʏ!!!",
     body: wm,
     thumbnail: fs.readFileSync('./media/qr.png'),
-    sourceUrl: 'https://wa.me/p/5489299044451325/6281361281833',
+    sourceUrl: 'https://wa.me/p/5489299044451325/6282171432358',
      }}
   })
 }
